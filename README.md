@@ -7,3 +7,7 @@ Programa em Go que simula um jogo de tênis com dois jogadores, cada um deles po
 A esecução deve ser feita por
 `go run .\Tennis.go P`,
 sendo P no número de pontos que determina a vitória de um dos jogadores no jogo.
+
+## Autoria
+[Paulo V. F. Andrade](https://github.com/PauloFAndrade)
+[Rita C. C. Cruz](https://github.com/rcchcz)
