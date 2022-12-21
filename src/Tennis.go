@@ -46,11 +46,11 @@ func player(id string, court chan int, pointsToWin int, scorePlayer int) {
 
 		n := rand.Intn(100)
 		if n%11 < 2 {
-			fmt.Println("Player ", id, " Missed :(")
+			fmt.Println("OH! Player ", id, " Missed :(\n")
 		} else {
 			scorePlayer++
 			hit++
-			fmt.Println("NICE! Player ", id, " Hit ", hit, " Score: ", scorePlayer)
+			fmt.Println("NICE! Player ", id, " Hit ", hit, " [ Score: ", scorePlayer, "]\n")
 			if scorePlayer == pointsToWin {
 				fmt.Printf("Player %s Won\n", id)
 				close(court)
