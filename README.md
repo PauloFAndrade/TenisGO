@@ -10,4 +10,5 @@ sendo P no número de pontos que determina a vitória de um dos jogadores no jog
 
 ## Autoria
 [Paulo V. F. Andrade](https://github.com/PauloFAndrade)
+
 [Rita C. C. Cruz](https://github.com/rcchcz)
