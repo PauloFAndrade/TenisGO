@@ -1,4 +1,4 @@
-# :tennis::trophy: TenisGO :trophy::tennis:
+# :trophy::tennis: TenisGO :tennis::trophy:
 
 ## Sobre o projeto
 Projeto desenvolvido para a disciplina Programação Concorrente, no Instituto Metrópole Digital, sob orientação do professor Everton Cavalcante.
