@@ -9,6 +9,5 @@ A esecução deve ser feita por
 sendo P no número de pontos que determina a vitória de um dos jogadores no jogo.
 
 ## Autoria
-[Paulo V. F. Andrade](https://github.com/PauloFAndrade)
-
+[Paulo V. F. Andrade](https://github.com/PauloFAndrade)<br>
 [Rita C. C. Cruz](https://github.com/rcchcz)
